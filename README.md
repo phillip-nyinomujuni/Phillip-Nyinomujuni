@@ -1,7 +1,7 @@
 # Phillip-Nyinomujuni
 ## Hi, I'm Phillip (Pinz) 👋 
 
-> **"A Setter on the court, a Builder in the IDE."**
+> **"A Setter on the court, an Open Source Contributor."**
 
 ### 🚀 About Me
 - 🔭 I’m currently developing **Invisible Infrastructure** for the service industry in East Africa.
