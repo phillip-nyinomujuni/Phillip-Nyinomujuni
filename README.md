@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🌱 I’m mastering the **MERN Stack** (React, Node.js) and **Python** during my strategic gap year.
-- ⚡ I love **open source contriuting**
+- ⚡ I love **open source contributing**
 - 🏐 When I'm not coding, I'm setting plays on the volleyball court or analysing **XAUUSD** charts.
 
 ### 🛠️ Tech Stack & Tools
