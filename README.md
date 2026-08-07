@@ -4,13 +4,11 @@
 > **"A Setter on the court, an Open Source Contributor."**
 
 ### 🚀 About Me
-- 🔭 I’m currently developing **Invisible Infrastructure** for the service industry in East Africa.
 - 🌱 I’m mastering the **MERN Stack** (React, Node.js) and **Python** during my strategic gap year.
-- ⚡ I specialize in **Business Automation**—turning manual workflows into digital systems.
+- ⚡ I love **open source contributing**
 - 🏐 When I'm not coding, I'm setting plays on the volleyball court or analysing **XAUUSD** charts.
 
 ### 🛠️ Tech Stack & Tools
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,4 +18,4 @@
 ![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyinomujuni-phillip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyinomujuni-phillip-49b7333ba/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyinomujuni-phillip-49b7333ba)
